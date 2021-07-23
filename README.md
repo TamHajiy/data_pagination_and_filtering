@@ -2,10 +2,10 @@
 
 Table of content
 -----------------
- *list of student profile dynamically created in DOM*
- *function that creates pagination based on an existing student data. Number of students cannot exceed more than 9 per page*
- *event listener that corresponds to the click and switches its class 'active' to the event.target*
- *call of two functions*
+ -list of student profile dynamically created in DOM.
+ -function that creates pagination based on an existing student data. Number of students cannot exceed more than 9 per page.
+ -event listener that corresponds to the click and switches its class 'active' to the event.target.
+ -call of two functions.
 
 
 What you will find on a website? 
